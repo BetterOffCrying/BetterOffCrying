@@ -1,4 +1,4 @@
-![vexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![vexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vexie&show_icons=true&theme=radical)
 
 
 • Discord - vexie#7900 <br/>
